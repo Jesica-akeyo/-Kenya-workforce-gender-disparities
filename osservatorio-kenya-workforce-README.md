@@ -2,11 +2,11 @@
 
 ## The question behind the work
 
-This piece came out of a two-month placement with the Osservatorio delle Libere Professioni in Rome, through the Friendship Italia-Kenya project backed by Aprinternational, Confprofessioni, and the Kenyan Ministry of Labor. Brenda Chao Mbogho and I were asked to take Kenya's labour market and make its structure legible to an Italian research audience that had the data and needed the local context to read it correctly. The starting question was simple. Behind the headline employment numbers, where do men and women in Kenya actually work, and how differently do their paths through the labour market look.
+This piece came out of a two-month placement with the Osservatorio delle Libere Professioni in Rome, through the Friendship Italia-Kenya project backed by Aprinternational, Confprofessioni, and the Kenyan Ministry of Labor. Brenda Chao Mbogho and I were asked to examine Kenya's labour market and make its structure legible to an Italian research audience that had the data but needed the local context to interpret it correctly. The starting question was simple. Behind the headline employment numbers, where do men and women in Kenya actually work, and how differently do their paths through the labour market look.
 
 ## What we did
 
-We worked from 2022 ILOSTAT data covering Kenya's working-age population, aged 15 to 64, and built the analysis around employment status, occupation type, and sectoral composition, split by gender at every stage.
+We worked with 2022 ILOSTAT data covering Kenya's working-age population (aged 15 to 64) and built the analysis around employment status, occupation type, and sectoral composition, split by gender at every stage.
 
 - Compared employment, unemployment, and inactivity rates by gender, and traced the gap in inactivity back to unpaid care work and cultural constraints, giving the statistic a clear explanation
 - Broke the employed population down into employees, self-employed, and unclassified workers, since separating these categories reveals where formal job security actually sits
@@ -17,7 +17,7 @@ We worked from 2022 ILOSTAT data covering Kenya's working-age population, aged 1
 
 ## What we found
 
-Kenya's labour market runs on self-employment far more than wage work, and that reliance falls unevenly by gender. Roughly two thirds of all employed people are self-employed, and among women that share climbs to three quarters, well above the share among men. Agriculture absorbs most of that self-employment, and it absorbs a larger share of women than men. Sectors associated with formal professional work register only a small fraction of self-employment for either gender, which points to how far Kenya's informal economy sits from the kind of structured, socially protected work that policy conversations often assume as the norm.
+Kenya's labour market runs on self-employment far more than wage work, and that reliance falls unevenly by gender. Roughly two-thirds of all employed people are self-employed, and among women that share climbs to three-quarters, well above the share among men. Agriculture absorbs most of that self-employment, and it absorbs a larger share of women than men. Sectors associated with formal professional work register only a small fraction of self-employment for either gender, which points to how far Kenya's informal economy sits from the kind of structured, socially protected work that policy conversations often assume as the norm.
 
 ## Working with the data's limits
 
@@ -29,7 +29,7 @@ The hard part of this project was choosing depth over a tidy headline, and namin
 
 ## Tools
 
-ILOSTAT public data, Excel for the initial breakdown, Datawrapper for the visualisations.
+ILOSTAT public data, Excel for the analysis, Datawrapper for the visualisations.
 
 ## Where this goes next
 
